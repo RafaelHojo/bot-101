@@ -12,7 +12,8 @@
     "ejs": "2.4.x",
     "express": "4.13.x",
     "watson-developer-cloud": "2.27.1",
-    "chrono-node": "*"
+    "chrono-node": "*",
+    "request": "*"
   },
   "repository": {},
   "engines": {
